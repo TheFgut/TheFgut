@@ -25,20 +25,25 @@ web scrapers, and experimental ML/LSTM-based prediction tools. Focused on perfor
   <p style="margin-top: 10px; font-size: 18px; font-weight: 600;">Car attack</p>
   </a>
 </td>
-</tr>
-<tr>
+<td align="center" style="padding: 20px;">
+  <a href="https://github.com/TheFgut/LensStudioRunner">
+  <img src="https://github.com/TheFgut/LensStudioRunner/blob/50536e3168479cb9f28feee41b0139056ce9ad04/runner%20logo.png" width="200" />
+  <p style="margin-top: 10px; font-size: 18px; font-weight: 600;">Runner (Lens Studio)</p>
+  </a>
+</td>
 <td align="center" style="padding: 20px;">
   <a href="https://github.com/TheFgut/CarDriftersV2">
   <img src="https://github.com/TheFgut/CarDriftersV2/blob/cfce4734fae49e63e749559577552af93d411ec5/car%20drifters.png" width="200" />
   <p style="margin-top: 10px; font-size: 18px; font-weight: 600;">Car drifters</p>
   </a>
 </td>
+</tr>
+<tr>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/TheFgut/Plinko_game">
-  <img src="https://github.com/TheFgut/TheFgut/blob/edfe5700f7f93ed2f8f8b849862e388a0dc5ca45/Resources/placeholder%20game%20icon.png" width="200" />
-  <p style="margin-top: 10px; font-size: 18px; font-weight: 600;">Proj 2</p>
+  <a href="https://github.com/TheFgut/DonutStack">
+  <img src="https://github.com/TheFgut/DonutStack/blob/61a004fe6598af13b1488487dbcb6f3cf8d1b12a/donut%20stuck%20logo.png" width="200" />
+  <p style="margin-top: 10px; font-size: 18px; font-weight: 600;">Donut stuck</p>
   </a>
-</td>
 </tr>
 </table>
 
